@@ -1,5 +1,5 @@
 # PennApps2019Hack
-PennApps2019 Hack
+DeepODIN: Using Deep Learning to predict opioid overdose fatalities
 
 ## Goal
 Using data from the PA state Overdose Information Network Data (ODIN) dataset in conjunction with publicly available US Census information, this project attepts to predict factors indicating risk of fatal overdoses without considering basic demographic and socioeconomic factors.
